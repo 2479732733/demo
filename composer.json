@@ -1,0 +1,14 @@
+{
+    "name": "2479732733/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zengxiaoqiang",
+            "email": "2479732733@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
