@@ -1,4 +1,4 @@
 <?php
-Bootstrap::run();
+include "vendor/autoload.php";
+core\Bootstrap::run();
 
-echo "张三李四";
